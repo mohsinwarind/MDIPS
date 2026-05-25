@@ -1,0 +1,13 @@
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.csproj.AssemblyReference.cache
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.Form1.resources
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.Properties.Resources.resources
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.csproj.GenerateResource.cache
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\bin\Debug\MDIPS.exe.config
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\bin\Debug\MDIPS.exe
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\bin\Debug\MDIPS.pdb
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.exe
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.pdb
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohsin\Desktop\Sem6\AP\MDIPS\obj\Debug\MDIPS.csproj.Up2Date
